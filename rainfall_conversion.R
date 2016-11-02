@@ -13,4 +13,4 @@ inches_to_mm <- function(inches){
 
 }
 
-#[TODO: developer A]Add inches to cm conversion function.
+[TODO:Team lead] Hire a new developer.
